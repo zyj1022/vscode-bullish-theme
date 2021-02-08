@@ -1,0 +1,43 @@
+{
+  "name": "bullish-theme",
+  "displayName": "Bullish Theme",
+  "description": "This is a bullish theme for VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.52.1"
+  },
+  "maintainers": [
+    "ZhiKing <zyj10222@126.com>"
+  ],
+  "publisher": "ZhiKing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zyj1022/vscode-bullish-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "2021",
+    "bullish",
+    "dark",
+    "light",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "assets/icon.png",
+  "contributes": {
+		"themes": [
+			{
+				"label": "Bullish Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/bullish.dark.json"
+			},
+			{
+				"label": "Bullish Light",
+				"uiTheme": "vs",
+				"path": "./themes/bullish.light.json"
+			}
+		]
+	}
+}
