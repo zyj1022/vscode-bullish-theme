@@ -2,7 +2,9 @@
 
 > This is a bullish theme for [Visual Studio Code](http://code.visualstudio.com).
 
-**Dark** ![dark view](./assets/bullish.dark.jpg "Bullish Dark")
+**Dark** ![dark view](./assets/bullish-dark.png "Bullish Dark")
+
+**Light** ![light view](./assets/bullish-light.png "Bullish Light")
 
 ## Installation
 
