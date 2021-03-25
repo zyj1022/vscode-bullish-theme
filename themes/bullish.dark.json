@@ -105,7 +105,7 @@
     "progressBar.background": "#CFAFB7",
 
     "editorGroup.background": null,
-    "editorGroup.border": "#CFAFB7",
+    "editorGroup.border": "#889EE990",
     "editorGroup.dropBackground": "#44475A70",
     "editorGroupHeader.noTabsBackground": null,
     "editorGroupHeader.tabsBackground": "#191A21",
@@ -114,7 +114,7 @@
     "tab.activeBackground": "#2e335b",
     "tab.activeForeground": "#D4D4DF",
     "tab.border": "#191A21",
-    "tab.activeBorder": "#CFAFB780",
+    "tab.activeBorder": "#889EE990",
     "tab.unfocusedActiveBorder": null,
     "tab.inactiveBackground": "#191A21",
     "tab.inactiveForeground": "#696980",
@@ -170,7 +170,7 @@
     "editorGutter.addedBackground": "#BED44180",
     "editorGutter.deletedBackground": "#FF83AC80",
 
-    "gitDecoration.modifiedResourceForeground": "#889EE9",
+    "gitDecoration.modifiedResourceForeground": "#73D1FF",
     "gitDecoration.deletedResourceForeground": "#FF83AC",
     "gitDecoration.untrackedResourceForeground": "#BED441",
     "gitDecoration.ignoredResourceForeground": "#6272A4",
@@ -221,7 +221,7 @@
     "editorOverviewRuler.incomingContentForeground": "#BED441",
 
     "panel.background": "#25273C",
-    "panel.border": "#889EE9",
+    "panel.border": "#889EE990",
     "panelTitle.activeBorder": "#889EE9",
     "panelTitle.activeForeground": "#C1C4EF",
     "panelTitle.inactiveForeground": "#6272A4",

@@ -2,7 +2,7 @@
   "name": "bullish-theme",
   "displayName": "Bullish Theme",
   "description": "This is a bullish theme for VSCode.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.54.3"
   },
